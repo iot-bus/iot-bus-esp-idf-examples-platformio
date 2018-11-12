@@ -12,9 +12,9 @@ Example from esp-idf examples. Simple example to turn on-board LED on and off.
 
 Example from esp-idf examples. This example requires esp-idf 3.2.
 
-# master
+### master
 
-# slave
+### slave
 
 ## iot-bus-esp-idf-display
 
@@ -24,9 +24,9 @@ This example is based on Loboris ESP32_TFT_library. SPIFFs has been refactored t
 
 This example is based on Inteform esp32-lora-library (itself based on Sandeep Mistry's arduino-Lora library). Requires testing.
 
-# sender
+### sender
 
-# receiver
+### receiver
 
 ## iot-bus-esp-idf-motor
 
